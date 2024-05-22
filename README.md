@@ -98,8 +98,6 @@
 - A Postgres database backed by a Docker volume
 - A Node.js web app which shows the results of the voting in real time
 
-<img width="813" alt="Screenshot 2024-02-09 at 5 20 01 PM" src="https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/ad4dbb37-82f4-4663-9bcb-e919f0bb101b">
-
 ## Day 15: Azure DevOps - CD Setup - (PROJECT 3)
 - Implementing Continuous Deployment (CD)
 - Using AKS for CD
@@ -119,8 +117,6 @@
 - How to create Deployment, Service and Ingress
 - How does Ingress controller work ?
 - Expose the three tier application to end users.
-
-![Screenshot 2024-02-16 at 1 43 25 PM](https://github.com/iam-veeramalla/Azure-zero-to-hero/assets/43399466/0623a010-d8f1-4632-abce-d06f5755b1fa)
 
 ## Day 18: Azure DevOps Interview Questions
 - Beginner level Azure DevOps Interview Q&A
