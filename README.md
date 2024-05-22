@@ -1,5 +1,5 @@
 # Azure-Zero-Hero-Series
-
+# You can Watch the complete series on Youtuber Under Abishek Veermaala Sir Azure Zero to Hero Free course.
 ## Day 1: Understanding Cloud Concepts, Vocabulary and Terminology
 - What is cloud ?
 - What is the difference between public, private and hybrid cloud ?
