@@ -4,7 +4,8 @@ Azure resources are the building blocks of your cloud infrastructure in Microsof
 
 ![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/f3539da9-61a1-4c24-838e-1677b5ae021e)
 
-"C:\Users\ankit\Desktop\photo_2024-05-27_08-54-01.jpg"
+![photo_2024-05-27_08-54-01](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/31221fb1-c3f3-48d4-8608-8a365264e862)
+
 
 
 ## Resource Groups in Azure
