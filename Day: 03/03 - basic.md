@@ -2,11 +2,15 @@
 
 Azure resources are the building blocks of your cloud infrastructure in Microsoft Azure. These resources can be virtual machines, databases, storage accounts, or any other service offered by Azure. Each resource is a manageable item in Azure, and they are provisioned and managed individually.
 
+![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/f3539da9-61a1-4c24-838e-1677b5ae021e)
+
+
 ## Resource Groups in Azure
 
 A **Resource Group** in Azure is a logical container for resources that share the same lifecycle, permissions, and policies. It helps you organize and manage related Azure resources efficiently. Resources within a group can be deployed, updated, and deleted together as a single management unit.
 
-![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/216bfd16-6e61-41dd-ae3e-0f0fd4a7c97e)
+![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/27a2da3b-937e-4342-b684-c19c66a32d88)
+
 
 
 ### Key Points about Resource Groups:
