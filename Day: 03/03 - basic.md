@@ -6,6 +6,9 @@ Azure resources are the building blocks of your cloud infrastructure in Microsof
 
 A **Resource Group** in Azure is a logical container for resources that share the same lifecycle, permissions, and policies. It helps you organize and manage related Azure resources efficiently. Resources within a group can be deployed, updated, and deleted together as a single management unit.
 
+![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/216bfd16-6e61-41dd-ae3e-0f0fd4a7c97e)
+
+
 ### Key Points about Resource Groups:
 
 - **Lifecycle Management:** Resources within a group can be managed collectively, making it easy to handle deployments, updates, and deletions.
