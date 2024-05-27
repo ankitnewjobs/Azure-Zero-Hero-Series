@@ -21,6 +21,9 @@ A **Resource Group** in Azure is a logical container for resources that share th
 
 - **Role-Based Access Control (RBAC):** Permissions and access control are applied at the resource group level, allowing you to manage who can access and modify resources within a group.
 
+  ![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/901ce9d3-fc0a-405f-bf02-750e477d3ff3)
+
+
 ## Azure Resource Manager (ARM) Overview
 
 **Azure Resource Manager (ARM)** is the deployment and management service for Azure. It provides a consistent management layer that enables you to deploy resources with declarative templates. ARM templates describe the resources you need and their configurations, allowing you to deploy and update resources in a predictable manner.
