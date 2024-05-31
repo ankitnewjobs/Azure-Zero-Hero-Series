@@ -20,6 +20,9 @@ Azure Load Balancer distributes incoming network traffic across multiple servers
 
 - **Inbound and Outbound Traffic**: Balances both inbound and outbound traffic.
 
+- ![image](https://github.com/ankitnewjobs/Azure-Zero-Hero-Series/assets/154872782/2916b64d-4c66-456f-85f4-6631a7f1fb42)
+
+
 ## Azure DNS
 
 Azure DNS is a scalable and secure domain hosting service. It provides name resolution using the Microsoft Azure infrastructure. Key features include:
