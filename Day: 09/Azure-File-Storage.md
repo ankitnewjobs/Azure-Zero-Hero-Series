@@ -11,7 +11,7 @@
     Use Azure File Storage when you need a shared file system that can be accessed from multiple VMs or applications.
     It is suitable for scenarios like storing configuration files, sharing data between applications, and serving as a common storage location for applications in a cloud environment.
 
-3. Example from DevOps Engineer point of view?
+3. Example from a DevOps Engineer point of view?
 
     A DevOps engineer may leverage Azure File Storage to store configuration files that are shared among multiple application instances.
     In a deployment pipeline, scripts or configuration files stored in Azure File Storage can be mounted to VMs or containers during the deployment process.
