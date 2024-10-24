@@ -23,7 +23,7 @@
 - Exploring Regions and Availability Zones in Azure
 - IaaS vs PaaS vs SaaS models in Azure
 
-## Day 3: Azure Resources,Resource Groups and Resource Manager
+## Day 3: Azure Resources, Resource Groups and Resource Manager
 - Resources in Azure
 - Resource Groups in Azure
 - Azure Resource Manager Overview
